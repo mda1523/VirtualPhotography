@@ -1,3 +1,4 @@
+
 .navbar {
   
 }
@@ -11,7 +12,6 @@
 .navbar .navbar-brand:focus {
   color: black;
 }
-
 
 
 /*Centers Links*/
@@ -46,5 +46,8 @@
 .navbar-light .navbar-nav .nav-link:hover {
     color: white !important;
 }
+
+
+
 
 
