@@ -12,6 +12,16 @@
   color: black;
 }
 
+#navbarCollapse {
+      position: fixed;
+      top: 0;
+      left: 0;
+      z-index: 1;
+      width: 280px; /*example + never use min-width with this solution */
+      height: 100%;
+      background: #000;
+    }
+
 /*Centers Links*/
 .navbar-nav {
     float: none;
