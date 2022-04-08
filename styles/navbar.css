@@ -12,7 +12,7 @@
   color: black;
 }
 
-#navbarCollapse {
+.navbarCollapse {
       position: fixed;
       top: 0;
       left: 0;
